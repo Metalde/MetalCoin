@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1050</width>
+    <width>840</width>
     <height>592</height>
    </rect>
   </property>
@@ -18,13 +18,13 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1050</width>
+     <width>840</width>
      <height>592</height>
     </rect>
    </property>
    <property name="url">
     <url>
-     <string>http://qtradio.metalmoshpit.net/</string>
+     <string>http://66.55.144.67:8120/radio</string>
     </url>
    </property>
   </widget>
