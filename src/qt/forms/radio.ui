@@ -24,7 +24,7 @@
    </property>
    <property name="url">
     <url>
-     <string>http://66.55.144.67:8120/radio</string>
+     <string>http://radio.metalmoshpit.net/</string>
     </url>
    </property>
   </widget>
